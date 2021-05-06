@@ -1,0 +1,567 @@
+body {
+    margin: 0px;
+    background-image: url("profil/weldbackgr.jpeg");
+    
+}
+
+
+.oldaltartalom {
+    width: 100%;
+    
+    
+}
+.AWIoldal{
+    width: 100%;
+}
+.navbar{
+    background-image: url("profil/elektroda10.jpg");
+    width: 100%;
+}
+
+.linkoperalo1 {
+
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.linkoperalo2 {
+
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.linkoperalo3 {
+
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.linkoperalo4 {
+
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+    
+}
+
+.linkoperalo1 {
+    height: 20px;
+}
+.linkoperalo1 a {
+    color: crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.linkoperalo1:hover {
+    color: crimson;
+}
+
+.linkoperalo1 a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.linkoperalo2 {
+    height: 20px;
+}
+.linkoperalo2 a {
+    color: crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.linkoperalo2:hover {
+    color:  crimson;
+}
+
+.linkoperalo2 a:hover {
+    color: rgb(238, 190, 88);
+}
+.linkoperalo3 {
+    height: 20px;
+}
+.linkoperalo3 a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.linkoperalo3:hover {
+    color: crimson;
+}
+
+.linkoperalo3 a:hover {
+    color: rgb(238, 190, 88);
+}
+.linkoperalo4 {
+    height: 20px;
+}
+.linkoperalo4 a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.linkoperalo4:hover {
+    color: crimson;
+}
+
+.linkoperalo4 a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.elsooldalkepek {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.elsooldalkepek {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100;
+    padding-top: 50px;
+    padding-right: 800px;
+    
+}
+
+.elolkep {
+    display: flex;
+}
+
+.elsooldalkepek > .elolkep > div {
+    margin-right:  20px;
+}
+.bemutatkozas {
+    font-size: 24px;
+    padding-left: 50px;
+    font-family: monospace;
+    font-weight: lighter;
+    font-family: Impact;
+    
+}
+.elsooldalkepek {
+    display: flex;
+    
+    padding: 20px;
+    
+}
+
+.cpt {
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 390px;
+    font-size: 64px;
+    font-family: Impact;   
+}
+
+/*awi*/
+.masodikbehivo {
+    height: 20px;
+}
+.masodikbehivo a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.masodikbehivo:hover {
+    color: crimson;
+}
+
+.masodikbehivo a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.masodikoldal {
+    display: flex;
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.LANG {
+    display: flex;
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+.fullhd {
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 390px;
+    font-size: 20px;
+    font-family: Impact;
+    font-variant: small-caps; 
+}
+
+
+.AWIvarratIfelirat a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.AWIvarratIfelirat:hover {
+    color: crimson;
+}
+
+.AWIvarratIfelirat a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.AWIvarratIfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+.AWIcsofelirat {
+    display: flex;
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    color: crimson;
+}
+
+
+
+
+.FOGYOargon a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.FOGYOargon:hover {
+    color: crimson;
+}
+
+.FOGYOargon a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.FOGYOargon {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+
+
+.FOGYOcsemege a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.FOGYOcsemege:hover {
+    color: crimson;
+}
+
+.FOGYOcsemege a:hover {
+    color: rgb(238, 190, 88);
+}
+
+
+.FOGYOcsemege {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+
+
+
+.FOGYOfuggolegesSarok a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.FOGYOfuggolegesSarok:hover {
+    color: crimson;
+}
+
+.FOGYOfuggolegesSarok a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.FOGYOfuggolegesSarok {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+
+
+
+
+.FOGYOvizszintesSarok a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.FOGYOvizszintesSarok:hover {
+    color: crimson;
+}
+
+.FOGYOvizszintesSarok a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.FOGYOvizszintesSarok {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+
+
+.Argontompafelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.COkulonbfemvizszintestompavarrat1felirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.COkorvarrat2keretfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.CofuggolegesSarokfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.CofuggolegesSarokfelirat2 {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.CovizszintesSarokfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.CovizszintesSarokfelirat2 {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+
+.KEZIvarratIfelirat a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.KEZIvarratIfelirat:hover {
+    color: crimson;
+}
+
+.KEZIvarratIfelirat a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.KEZIvarratIfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+
+.KEZIsarokfelirat a {
+    color:crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.KEZIsarokfelirat:hover {
+    color: crimson;
+}
+
+.KEZIsarokfelirat a:hover {
+    color: rgb(238, 190, 88);
+}
+
+.KEZIsarokfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+}
+
+
+
+.KEZIfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.KEZIvarratIfeliratoldal {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+.LANGfelirat {
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+
+
+.AWIvarratIfelirat2{
+    text-align: center;
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    display: flex;
+    color: crimson;
+}
+.videofelirat {
+    height: 20px;
+}
+.videofelirat a {
+    color: crimson;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.videofelirat:hover {
+    color: crimson;
+}
+
+.videofelirat a:hover {
+    color: rgb(238, 190, 88);
+}
+.videofelirat {
+
+    font-weight: normal;
+    font-family: Impact;
+    font-size: 24px;
+    
+}
+
+.oldalterv1{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+.oldalterv2{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+.oldalterv3{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+.oldalterv4{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+.oldalterv5{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: darkorange;
+}
+.youtube{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: darkorange;
+}
+.w3{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: darkorange;
+}
+
+.kezdőlapoldaltervirat{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+
+.képoldaltervirat{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+
+.altalanosoldaltervirat{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+
+.videooldaltervirat{
+    font-weight: lighter;
+    font-family: Impact;
+    font-stretch: normal;
+    font-size: 18px;
+    color: crimson;
+}
+
+
+
